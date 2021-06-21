@@ -3,7 +3,4 @@ main: world.bentobox.novaultleftbehind.NoVaultLeftBehind
 version: 1.0.0
 api-version: 1.15.4
 icon: "KNOWLEDGE_BOOK"
-
 authors: jstnf
-
-loadbefore: AcidIsland, BSkyBlock, CaveBlock, SkyGrid
